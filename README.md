@@ -2,11 +2,7 @@
 
 This project applies Artificial Neural Networks (ANNs) to solve real-world regression problems. The models are designed to predict:
 
-Employee Salary (based on employer data)
-
 Taxi Ride Price (based on ride details)
-
-Crab Age (based on biological measurements)
 
 The assignment focuses on data exploration, preprocessing, ANN model building, optimization, and evaluation to understand how neural networks can be applied to regression tasks.
 
@@ -14,11 +10,7 @@ The assignment focuses on data exploration, preprocessing, ANN model building, o
 
 The datasets used in this project are available on Kaggle:
 
-Employer Data
-
 Taxi Price Prediction
-
-Crab Age Prediction
 
 # 🚀 Project Workflow
 1. Data Understanding
@@ -81,7 +73,7 @@ Interpreted most influential features
 
 # 📊 Results & Insights
 
-ANN models successfully predicted Salary, Taxi Price, and Crab Age with improved accuracy after optimization.
+ANN models successfully Taxi Price with improved accuracy after optimization.
 
 Scaling and categorical encoding were crucial for stable training.
 
